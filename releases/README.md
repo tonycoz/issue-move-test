@@ -1,6 +1,6 @@
 # Releases
 
-[ / ](..)releases/
+[ / ](..) releases/
 
 - [1.012](1.012.html) - 14 Jun 2020
 - [1.011](1.011.html) - 07 Mar 2019
